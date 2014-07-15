@@ -48,8 +48,8 @@ PRODUCT_PACKAGES += \
     libstagefrighthw
 
 # Power
-PRODUCT_PACKAGES += \
-    power.qcom
+#PRODUCT_PACKAGES += \
+#    power.qcom
 
 # Lights
 PRODUCT_PACKAGES += \
